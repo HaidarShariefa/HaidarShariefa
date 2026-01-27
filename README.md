@@ -95,6 +95,9 @@ Strong focus on **clean architecture, maintainability, and real-world business i
 <a href="mailto:haidar.shariefa.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
+
+📧 **Email:** [haidar.shariefa.dev@gmail.com](mailto:haidar.shariefa.dev@gmail.com)
+
 <a href="https://linkedin.com/in/haidarshariefa">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" />
 </a>
