@@ -20,10 +20,10 @@ Strong focus on **clean architecture, maintainability, and real-world business i
 ## 🧩 Tech Stack
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=ts,js,java" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,php" />
 
 ### ⚙️ Frameworks & Platforms
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=next,react,nodejs,express" />
 
 ### 🗄️ Databases & Architecture
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
