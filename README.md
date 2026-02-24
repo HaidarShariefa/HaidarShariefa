@@ -33,7 +33,7 @@ Strong focus on **clean architecture, maintainability, and real-world business i
 - Role-Based Access Control (RBAC)
 
 ### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,notion,tailwind,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,notion,tailwind,vercel,vscode,visualstudio" />
 
 - CI/CD Pipelines  
 - Dockerized production environments  
