@@ -26,14 +26,14 @@ Strong focus on **clean architecture, maintainability, and real-world business i
 <img src="https://skillicons.dev/icons?i=next,react,nodejs,express" />
 
 ### 🗄️ Databases & Architecture
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase" />
 
 - REST APIs & GraphQL  
 - Multi-Tenant Architectures  
 - Role-Based Access Control (RBAC)
 
 ### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,tailwind,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,notion,tailwind,vscode,visualstudio" />
 
 - CI/CD Pipelines  
 - Dockerized production environments  
